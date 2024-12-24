@@ -8,8 +8,8 @@ module.exports = {
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
   "MODE": "public",
-  "OWNER_NUMBER": "923072380380",
-  "OWNER_NAME": "Hamza",
+  "OWNER_NUMBER": "923103991035",
+  "OWNER_NAME": "Ghaffar chachar",
   "ALWAYS_ONLINE": true,
   "PRESENCE": "online",
   "OMDB_API_KEY": "76cb7f39",
@@ -30,4 +30,4 @@ module.exports = {
   "COUNTRY_BLOCK_CODE": "972",
   "EMOJI": "🙄",
   "AUTO_TYPING": true
-};
+};https://youtube.com/watch?v=xMTmyn7sET4&si=PdB-RpS55rB7KtrE

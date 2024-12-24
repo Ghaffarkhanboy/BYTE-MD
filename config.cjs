@@ -30,4 +30,3 @@ module.exports = {
   "COUNTRY_BLOCK_CODE": "972",
   "EMOJI": "🙄",
   "AUTO_TYPING": true
-};https://youtube.com/watch?v=xMTmyn7sET4&si=PdB-RpS55rB7KtrE
